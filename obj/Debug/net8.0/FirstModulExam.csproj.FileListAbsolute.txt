@@ -1,0 +1,14 @@
+C:\Users\otabek\Desktop\FirstModulExam\bin\Debug\net8.0\FirstModulExam.exe
+C:\Users\otabek\Desktop\FirstModulExam\bin\Debug\net8.0\FirstModulExam.deps.json
+C:\Users\otabek\Desktop\FirstModulExam\bin\Debug\net8.0\FirstModulExam.runtimeconfig.json
+C:\Users\otabek\Desktop\FirstModulExam\bin\Debug\net8.0\FirstModulExam.dll
+C:\Users\otabek\Desktop\FirstModulExam\bin\Debug\net8.0\FirstModulExam.pdb
+C:\Users\otabek\Desktop\FirstModulExam\obj\Debug\net8.0\FirstModulExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otabek\Desktop\FirstModulExam\obj\Debug\net8.0\FirstModulExam.AssemblyInfoInputs.cache
+C:\Users\otabek\Desktop\FirstModulExam\obj\Debug\net8.0\FirstModulExam.AssemblyInfo.cs
+C:\Users\otabek\Desktop\FirstModulExam\obj\Debug\net8.0\FirstModulExam.csproj.CoreCompileInputs.cache
+C:\Users\otabek\Desktop\FirstModulExam\obj\Debug\net8.0\FirstModulExam.dll
+C:\Users\otabek\Desktop\FirstModulExam\obj\Debug\net8.0\refint\FirstModulExam.dll
+C:\Users\otabek\Desktop\FirstModulExam\obj\Debug\net8.0\FirstModulExam.pdb
+C:\Users\otabek\Desktop\FirstModulExam\obj\Debug\net8.0\FirstModulExam.genruntimeconfig.cache
+C:\Users\otabek\Desktop\FirstModulExam\obj\Debug\net8.0\ref\FirstModulExam.dll
